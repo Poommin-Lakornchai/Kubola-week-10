@@ -1,0 +1,32 @@
+/*class Person {
+    String firstname;
+    String lastname;
+    int age;
+
+    public Person(String firstname, String lastname, int age) {
+        this.firstname = firstname;
+        this.lastname = lastname;
+        this.age = age;
+    }
+
+    public void show() {
+        System.out.println("Name : " + firstname + " " + lastname + " Age : " + age);
+    }
+
+}
+
+public class Lab10_3 {
+    public static void main(String[] args) {
+        Person p1;
+        Person p2;
+        Person p3;
+
+        p1 = new Person("nid", "kubola", 25);
+        p2 = new Person("john", "peterson", 37);
+        p3 = new Person("bob", "smith", 18);
+
+        p1.show();
+        p2.show();
+        p3.show();
+    }
+}*/
